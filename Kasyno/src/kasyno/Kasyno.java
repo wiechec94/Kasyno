@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * 
+ * @author Krzysztof Wiecheć IO 3 rok 
  */
 public class Kasyno {
 
